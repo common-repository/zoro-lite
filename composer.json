@@ -1,0 +1,13 @@
+{
+    "name": "thelostasura/zoro-lite",
+    "require": {
+        "illuminate/cache": "^8.11",
+        "illuminate/container": "^8.11",
+        "illuminate/filesystem": "^8.11",
+        "guzzlehttp/guzzle": "^7.2",
+        "catfan/medoo": "^1.7",
+        "illuminate/http": "^8.11"
+    },
+    "require-dev": {
+    }
+}
